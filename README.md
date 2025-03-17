@@ -1,37 +1,11 @@
-# Foobar
+# Profil Saya - Halaman Pribadi
 
-Foobar is a Python library for dealing with word pluralization.
+Ini adalah halaman profil pribadi yang menggunakan HTML dan CSS. Halaman ini dirancang untuk menampilkan informasi dasar mengenai diri Anda, termasuk foto profil, bio, keahlian, pengalaman, dan informasi kontak.
 
-## Installation
+## Fitur
+- **Profil Pribadi**: Menampilkan foto dan bio singkat tentang diri Anda.
+- **Keahlian**: Daftar keahlian yang Anda miliki.
+- **Pengalaman Kerja**: Menyediakan informasi tentang pengalaman kerja dan peran yang pernah Anda jalani.
+- **Kontak**: Menyediakan tombol untuk menghubungi Anda via email.
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+## Struktur Direktori
